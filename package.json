@@ -1,0 +1,18 @@
+{
+  "name": "chat-bot",
+  "version": "2.0.5",
+  "description": "This is a chat bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Touseef hussain",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "openai": "^3.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
